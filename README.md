@@ -9,9 +9,7 @@ I'm a backend developer from Brazil, 22 years old and 2 years of coding.
 -------
 ### **View my stats on Github**
 
-
-![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielsgradinar&show_icons=true)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielsgradinar&hide=prs,issues,contribs&count_private=true&show_icons=true)
 --------
 **Languages and Tools:**
 
@@ -23,3 +21,5 @@ I'm a backend developer from Brazil, 22 years old and 2 years of coding.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
