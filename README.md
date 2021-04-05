@@ -1,4 +1,4 @@
-# Hi, I'm Gabriel! :D
+# Hi, I'm Gabriel! 😄
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielsgradinar)](https://github.com/gabrielsgradinar)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsgradinar/)](https://www.linkedin.com/in/gabrielsgradinar/)
@@ -9,7 +9,7 @@ I'm a backend developer from Brazil, 22 years old and 2 years of coding.
 -------
 ### **View my stats on Github**
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielsgradinar&hide=prs,issues,contribs&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsgradinar&count_private=true&show_icons=true&theme=dracula)
 --------
 **Languages and Tools:**
 
