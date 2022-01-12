@@ -8,7 +8,7 @@
 
 
 ## About me
-I'm a backend developer from Brazil💻
+I'm a backend developer from Brazil 💻
 
 -------
 ### **View my stats on Github**
