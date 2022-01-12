@@ -8,7 +8,7 @@
 
 
 ## About me
-I'm a backend developer from Brazil, 23 years old and 2 years of coding 💻
+I'm a backend developer from Brazil💻
 
 -------
 ### **View my stats on Github**
