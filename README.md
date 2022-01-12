@@ -1,7 +1,7 @@
 # Hi, I'm Gabriel! 😄
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielsgradinar)](https://github.com/gabrielsgradinar)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsgradinar/)](https://www.linkedin.com/in/gabrielsgradinar/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielsgradinar)](https://github.com/gabrielsgradinar) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielsgradinar/)](https://www.linkedin.com/in/gabrielsgradinar/) 
 <a href="https://www.hackerrank.com/gabrielgradinar">
   <img height="15" src="https://user-images.githubusercontent.com/53834465/113636377-cca35500-9648-11eb-8525-d9d70034c306.png">
 </a>
