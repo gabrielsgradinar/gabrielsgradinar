@@ -8,7 +8,12 @@
 
 
 ## About me
-I'm a backend developer from Brazil 💻 working at working at [Open Co](https://www.linkedin.com/company/ofuturoeopen/) using Python
+I'm a backend developer from Brazil 💻 working at [Open Co](https://www.linkedin.com/company/ofuturoeopen/) using Python
+
+## Reading / Learning about
+- Book Domain Driven Design
+- Cloud concecpts for AWS Certified Cloud Practitioner
+- Design and documentation for APIs using OpenAPI
 
 -------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsgradinar&count_private=true&show_icons=true&theme=nord)
