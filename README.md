@@ -8,14 +8,13 @@
 
 
 ## About me
-I'm a backend developer from Brazil 💻
+I'm a backend developer from Brazil 💻 working at working at [Open Co](https://www.linkedin.com/company/ofuturoeopen/) using Python
 
 -------
-### **View my stats on Github**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsgradinar&count_private=true&show_icons=true&theme=nord)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsgradinar&count_private=true&show_icons=true&theme=dracula)
---------
-**Languages and Tools:**
+-------
+### Languages and Tools:
 
 <code><img height="30" src="https://user-images.githubusercontent.com/53834465/113635412-f3f92280-9646-11eb-9833-e902de0256a1.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/53834465/113635298-c3b18400-9646-11eb-93e2-8ca209036425.png"></code>
@@ -25,3 +24,8 @@ I'm a backend developer from Brazil 💻
 <code><img height="30" src="https://user-images.githubusercontent.com/53834465/113635182-8a791400-9646-11eb-957d-c316316dbeb1.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/53834465/113635568-45a1ad00-9647-11eb-8231-f2ef4d387bec.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+-------
+### Projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
