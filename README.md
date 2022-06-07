@@ -28,4 +28,4 @@ I'm a backend developer from Brazil 💻 working at working at [Open Co](https:/
 -------
 ### Projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=LucasRejanio&repo=novato-dev&theme=nord)
