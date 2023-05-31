@@ -6,7 +6,7 @@
   <img height="15" src="https://user-images.githubusercontent.com/53834465/113636377-cca35500-9648-11eb-8525-d9d70034c306.png">
 </a>
 <a href="https://exercism.org/profiles/gabrielsgradinar">
-  <img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Exercism-logo.svg/2560px-Exercism-logo.svg.png">
+  <img height="20" src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white">
 </a>
 
 
