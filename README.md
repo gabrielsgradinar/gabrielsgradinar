@@ -18,9 +18,6 @@ I'm a backend developer from Brazil 💻 working at [Open Co](https://www.linked
 - API design with Google Cloud Apigee
 
 -------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsgradinar&count_private=true&show_icons=true&theme=nord)
-
--------
 ### Languages and Tools:
 
 <code><img height="30" src="https://user-images.githubusercontent.com/53834465/113635412-f3f92280-9646-11eb-9833-e902de0256a1.png"></code>
@@ -31,8 +28,3 @@ I'm a backend developer from Brazil 💻 working at [Open Co](https://www.linked
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/2232217?s=280&v=4"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/gopher.svg"></code>
-
--------
-### Projects:
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=LucasRejanio&repo=novato-dev&theme=nord)
