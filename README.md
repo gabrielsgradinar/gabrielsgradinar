@@ -14,8 +14,8 @@
 I'm a backend developer from Brazil 💻 working at [Open Co](https://www.linkedin.com/company/ofuturoeopen/) using Python
 
 ## Reading / Learning about
-- Book: The Go Programming Language
-- API design with Google Cloud Apigee
+- Book: Production-Ready Microservices
+- Learning about Java basics
 
 -------
 ### Languages and Tools:
