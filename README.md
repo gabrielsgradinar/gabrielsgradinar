@@ -15,7 +15,7 @@ I'm a backend developer from Brazil 💻 working at [Open Co](https://www.linked
 
 ## Reading / Learning about
 - Book: Production-Ready Microservices
-- Learning about Java basics
+- Learning about Golang
 
 -------
 ### Languages and Tools:
