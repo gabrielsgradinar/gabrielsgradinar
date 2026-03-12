@@ -11,11 +11,11 @@
 
 
 ## About me
-I'm a backend developer from Brazil 💻 working at [Open Co](https://www.linkedin.com/company/ofuturoeopen/) using Python
+I'm a Data Engineer from Brazil 💻 working at [Gran](https://www.linkedin.com/school/grancursosonline)
 
 ## Reading / Learning about
-- Book: Production-Ready Microservices
-- Learning about Golang
+- Book: [Data Engineering Design Patterns](https://www.amazon.com/Data-Engineering-Design-Patterns-Problems/dp/1098165810)
+- Learning about Data Engineering in Google Cloud Platform
 
 -------
 ### Languages and Tools:
